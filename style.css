@@ -1,0 +1,1185 @@
+.desktop-petstory {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.desktop-petstory .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1600px;
+  height: 4975px;
+  position: relative;
+}
+
+.desktop-petstory .ft {
+  position: absolute;
+  width: 1600px;
+  height: 780px;
+  top: 0;
+  left: -83px;
+  background-color: #283035;
+}
+
+.desktop-petstory .overlap {
+  position: relative;
+  height: 780px;
+}
+
+.desktop-petstory .giant-panda {
+  position: absolute;
+  width: 1517px;
+  height: 780px;
+  top: 0;
+  left: 83px;
+  object-fit: cover;
+}
+
+.desktop-petstory .navbar {
+  position: absolute;
+  width: 1600px;
+  height: 80px;
+  top: 0;
+  left: 0;
+  background-color: #000000;
+  backdrop-filter: blur(4px) brightness(100%);
+  -webkit-backdrop-filter: blur(4px) brightness(100%);
+}
+
+.desktop-petstory .logo-footer {
+  position: absolute;
+  width: 82px;
+  height: 52px;
+  top: 14px;
+  left: 220px;
+}
+
+.desktop-petstory .overlap-group {
+  position: relative;
+  height: 52px;
+  border-radius: 2px;
+}
+
+.desktop-petstory .text-wrapper {
+  position: absolute;
+  width: 72px;
+  top: 3px;
+  left: 5px;
+  -webkit-text-stroke: 1.19px #ffffff;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 19px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 22.8px;
+}
+
+.desktop-petstory .bamboo {
+  position: absolute;
+  width: 11px;
+  height: 20px;
+  top: 25px;
+  left: 10px;
+}
+
+.desktop-petstory .rectangle {
+  position: absolute;
+  width: 82px;
+  height: 52px;
+  top: 0;
+  left: 0;
+  border-radius: 2px;
+  border: 1px solid;
+  border-color: #ffffff;
+}
+
+.desktop-petstory .text-wrapper-2 {
+  left: 365px;
+  background: linear-gradient(
+    180deg,
+    rgb(249, 128, 75) 0%,
+    rgb(254, 144, 19) 100%
+  );
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  color: transparent;
+  position: absolute;
+  top: 28px;
+  font-family: "Roboto-Medium", Helvetica;
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.desktop-petstory .text-wrapper-3 {
+  left: 466px;
+  color: #ffffff;
+  position: absolute;
+  top: 28px;
+  font-family: "Roboto-Medium", Helvetica;
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.desktop-petstory .text-wrapper-4 {
+  left: 650px;
+  color: #ffffff;
+  position: absolute;
+  top: 28px;
+  font-family: "Roboto-Medium", Helvetica;
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.desktop-petstory .text-wrapper-5 {
+  left: 1275px;
+  color: #ffffff;
+  position: absolute;
+  top: 28px;
+  font-family: "Roboto-Medium", Helvetica;
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.desktop-petstory .text-wrapper-6 {
+  left: 556px;
+  color: #ffffff;
+  position: absolute;
+  top: 28px;
+  font-family: "Roboto-Medium", Helvetica;
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.desktop-petstory .text-wrapper-7 {
+  position: absolute;
+  top: 28px;
+  left: 759px;
+  font-family: "Roboto-Medium", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.desktop-petstory .ellipse {
+  position: absolute;
+  width: 465px;
+  height: 465px;
+  top: 92px;
+  left: 807px;
+  border-radius: 232.5px;
+  background: linear-gradient(
+    180deg,
+    rgb(249, 128, 75) 0%,
+    rgb(254, 144, 19) 100%
+  );
+}
+
+.desktop-petstory .watch-your-favorite {
+  position: absolute;
+  width: 500px;
+  top: 165px;
+  left: 880px;
+  font-family: "Roboto-Bold", Helvetica;
+  font-weight: 700;
+  color: transparent;
+  font-size: 106.5px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 79.9px;
+}
+
+.desktop-petstory .span {
+  color: #ffffff;
+}
+
+.desktop-petstory .text-wrapper-8 {
+  color: #ffee2e;
+}
+
+.desktop-petstory .btn {
+  all: unset;
+  box-sizing: border-box;
+  position: absolute;
+  width: 298px;
+  top: 626px;
+  left: 983px;
+  background: linear-gradient(
+    180deg,
+    rgb(249, 128, 75) 0%,
+    rgb(254, 144, 19) 100%
+  );
+  height: 54px;
+  border-radius: 25px;
+  overflow: hidden;
+}
+
+.desktop-petstory .lovely-zoo-online {
+  position: absolute;
+  width: 292px;
+  top: 15px;
+  left: 5px;
+  font-family: var(--btn-font-family);
+  font-weight: var(--btn-font-weight);
+  color: #ffffff;
+  font-size: var(--btn-font-size);
+  text-align: center;
+  letter-spacing: var(--btn-letter-spacing);
+  line-height: var(--btn-line-height);
+  font-style: var(--btn-font-style);
+}
+
+.desktop-petstory .section {
+  position: absolute;
+  width: 1161px;
+  height: 403px;
+  top: 920px;
+  left: 219px;
+  overflow: hidden;
+}
+
+.desktop-petstory .bamboo-cap {
+  position: absolute;
+  width: 609px;
+  height: 403px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.desktop-petstory .p {
+  position: absolute;
+  width: 465px;
+  top: 135px;
+  left: 696px;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #333b41;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 20.8px;
+}
+
+.desktop-petstory .text-wrapper-9 {
+  position: absolute;
+  width: 465px;
+  top: -1px;
+  left: 696px;
+  font-family: var(--h-2-font-family);
+  font-weight: var(--h-2-font-weight);
+  color: #333b41;
+  font-size: var(--h-2-font-size);
+  letter-spacing: var(--h-2-letter-spacing);
+  line-height: var(--h-2-line-height);
+  font-style: var(--h-2-font-style);
+}
+
+.desktop-petstory .text-wrapper-10 {
+  position: absolute;
+  width: 217px;
+  top: 231px;
+  left: 696px;
+  font-family: var(--subtitle-font-family);
+  font-weight: var(--subtitle-font-weight);
+  color: #333b41;
+  font-size: var(--subtitle-font-size);
+  letter-spacing: var(--subtitle-letter-spacing);
+  line-height: var(--subtitle-line-height);
+  font-style: var(--subtitle-font-style);
+}
+
+.desktop-petstory .text-wrapper-11 {
+  position: absolute;
+  width: 465px;
+  top: 294px;
+  left: 696px;
+  font-family: var(--body-font-family);
+  font-weight: var(--body-font-weight);
+  color: #333b41;
+  font-size: var(--body-font-size);
+  letter-spacing: var(--body-letter-spacing);
+  line-height: var(--body-line-height);
+  font-style: var(--body-font-style);
+}
+
+.desktop-petstory .overlap-2 {
+  position: absolute;
+  width: 1600px;
+  height: 1106px;
+  top: 1503px;
+  left: 0;
+}
+
+.desktop-petstory .lovely-zoo-online-wrapper {
+  all: unset;
+  box-sizing: border-box;
+  position: absolute;
+  width: 298px;
+  top: 952px;
+  left: 651px;
+  background-color: #fe9013;
+  height: 54px;
+  border-radius: 25px;
+  overflow: hidden;
+}
+
+.desktop-petstory .overlap-3 {
+  position: absolute;
+  width: 1600px;
+  height: 1106px;
+  top: 0;
+  left: 0;
+}
+
+.desktop-petstory .animals {
+  position: absolute;
+  width: 1158px;
+  height: 872px;
+  top: 0;
+  left: 220px;
+  background-color: #ffffff;
+}
+
+.desktop-petstory .scroll-animals {
+  position: relative;
+  height: 872px;
+  overflow: hidden;
+}
+
+.desktop-petstory .foto {
+  top: -1240px;
+  left: -2937px;
+  position: absolute;
+  width: 366px;
+  height: 426px;
+}
+
+.desktop-petstory .foto-card {
+  top: 446px;
+  left: 792px;
+  position: absolute;
+  width: 366px;
+  height: 426px;
+}
+
+.desktop-petstory .img {
+  top: 0;
+  left: 396px;
+  position: absolute;
+  width: 366px;
+  height: 426px;
+}
+
+.desktop-petstory .foto-2 {
+  top: 446px;
+  left: 0;
+  position: absolute;
+  width: 366px;
+  height: 426px;
+}
+
+.desktop-petstory .foto-3 {
+  top: 446px;
+  left: 396px;
+  position: absolute;
+  width: 366px;
+  height: 426px;
+}
+
+.desktop-petstory .foto-4 {
+  top: -794px;
+  left: -2937px;
+  position: absolute;
+  width: 366px;
+  height: 426px;
+}
+
+.desktop-petstory .foto-5 {
+  top: 0;
+  left: 792px;
+  position: absolute;
+  width: 366px;
+  height: 426px;
+}
+
+.desktop-petstory .foto-6 {
+  top: 0;
+  left: 0;
+  position: absolute;
+  width: 366px;
+  height: 426px;
+}
+
+.desktop-petstory .strelitzia {
+  position: absolute;
+  width: 368px;
+  height: 275px;
+  top: 831px;
+  left: 1232px;
+  object-fit: cover;
+}
+
+.desktop-petstory .palm-foto {
+  position: absolute;
+  width: 292px;
+  height: 460px;
+  top: 646px;
+  left: 0;
+}
+
+.desktop-petstory .arrow-elips {
+  position: absolute;
+  width: 62px;
+  height: 62px;
+  top: 403px;
+  left: 138px;
+}
+
+.desktop-petstory .arrow-elips-2 {
+  position: absolute;
+  width: 62px;
+  height: 62px;
+  top: 403px;
+  left: 1398px;
+}
+
+.desktop-petstory .bg-pick-and {
+  position: absolute;
+  width: 1600px;
+  height: 1004px;
+  top: 2609px;
+  left: 5px;
+  background: linear-gradient(
+    180deg,
+    rgba(253.94, 209.92, 143.9, 0.7) 6.48%,
+    rgb(254, 189, 171) 61.43%,
+    rgba(253.94, 209.92, 143.9, 0.7) 65.62%
+  );
+}
+
+.desktop-petstory .overlap-4 {
+  position: relative;
+  width: 1160px;
+  height: 835px;
+  top: 69px;
+  left: 220px;
+  background-color: var(--frostedglasswhite);
+  border-radius: 20px;
+  backdrop-filter: blur(4px) brightness(100%);
+  -webkit-backdrop-filter: blur(4px) brightness(100%);
+}
+
+.desktop-petstory .vector {
+  top: 476px;
+  left: 694px;
+  position: absolute;
+  width: 70px;
+  height: 36px;
+}
+
+.desktop-petstory .vector-2 {
+  top: 480px;
+  left: 396px;
+  position: absolute;
+  width: 70px;
+  height: 36px;
+}
+
+.desktop-petstory .text-wrapper-12 {
+  position: absolute;
+  top: 330px;
+  left: 475px;
+  font-family: var(--h-3-font-family);
+  font-weight: var(--h-3-font-weight);
+  color: #333b41;
+  font-size: var(--h-3-font-size);
+  letter-spacing: var(--h-3-letter-spacing);
+  line-height: var(--h-3-line-height);
+  white-space: nowrap;
+  font-style: var(--h-3-font-style);
+}
+
+.desktop-petstory .widjet {
+  left: 198px;
+  position: absolute;
+  width: 168px;
+  height: 244px;
+  top: 418px;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.desktop-petstory .img-wrapper {
+  position: absolute;
+  width: 168px;
+  height: 168px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 5px;
+}
+
+.desktop-petstory .pay {
+  position: absolute;
+  width: 108px;
+  height: 60px;
+  top: 54px;
+  left: 30px;
+}
+
+.desktop-petstory .text-wrapper-13 {
+  position: absolute;
+  width: 168px;
+  top: 197px;
+  left: 0;
+  font-family: var(--body-font-family);
+  font-weight: var(--body-font-weight);
+  color: #333b41;
+  font-size: var(--body-font-size);
+  letter-spacing: var(--body-letter-spacing);
+  line-height: var(--body-line-height);
+  font-style: var(--body-font-style);
+}
+
+.desktop-petstory .widjet-2 {
+  left: 496px;
+  position: absolute;
+  width: 168px;
+  height: 244px;
+  top: 418px;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.desktop-petstory .zoo {
+  position: absolute;
+  width: 87px;
+  height: 96px;
+  top: 38px;
+  left: 40px;
+}
+
+.desktop-petstory .widjet-3 {
+  left: 794px;
+  position: absolute;
+  width: 168px;
+  height: 244px;
+  top: 418px;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.desktop-petstory .monkey {
+  position: absolute;
+  width: 125px;
+  height: 72px;
+  top: 48px;
+  left: 22px;
+}
+
+.desktop-petstory .text-wrapper-14 {
+  position: absolute;
+  top: 128px;
+  left: 99px;
+  font-family: var(--subtitle-font-family);
+  font-weight: var(--subtitle-font-weight);
+  color: #333b41;
+  font-size: var(--subtitle-font-size);
+  letter-spacing: var(--subtitle-letter-spacing);
+  line-height: var(--subtitle-line-height);
+  white-space: nowrap;
+  font-style: var(--subtitle-font-style);
+}
+
+.desktop-petstory .text-wrapper-15 {
+  position: absolute;
+  top: 40px;
+  left: 350px;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #fe9013;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 57.6px;
+  white-space: nowrap;
+}
+
+.desktop-petstory .text-wrapper-16 {
+  position: absolute;
+  width: 1061px;
+  top: 197px;
+  left: 99px;
+  font-family: "Roboto-Medium", Helvetica;
+  font-weight: 500;
+  color: #333b41;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 20.8px;
+}
+
+.desktop-petstory .text-wrapper-17 {
+  position: absolute;
+  width: 863px;
+  top: 228px;
+  left: 99px;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #333b41;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 20.8px;
+}
+
+.desktop-petstory .rectangle-2 {
+  position: absolute;
+  width: 178px;
+  height: 1px;
+  top: 272px;
+  left: 186px;
+  background-color: #fe9013;
+}
+
+.desktop-petstory .btn-wrapper {
+  all: unset;
+  box-sizing: border-box;
+  top: 722px;
+  left: 431px;
+  position: absolute;
+  width: 298px;
+  height: 54px;
+}
+
+.desktop-petstory .div-wrapper {
+  all: unset;
+  box-sizing: border-box;
+  position: relative;
+  background: linear-gradient(
+    180deg,
+    rgb(249, 128, 75) 0%,
+    rgb(254, 144, 19) 100%
+  );
+  height: 54px;
+  border-radius: 25px;
+  overflow: hidden;
+}
+
+.desktop-petstory .overlap-5 {
+  position: absolute;
+  width: 1600px;
+  height: 1222px;
+  top: 3753px;
+  left: 0;
+}
+
+.desktop-petstory .rectangle-3 {
+  position: absolute;
+  width: 1600px;
+  height: 781px;
+  top: 60px;
+  left: 0;
+  backdrop-filter: blur(4px) brightness(100%);
+  -webkit-backdrop-filter: blur(4px) brightness(100%);
+}
+
+.desktop-petstory .leav-foto {
+  position: absolute;
+  width: 246px;
+  height: 407px;
+  top: 505px;
+  left: 1354px;
+  object-fit: cover;
+}
+
+.desktop-petstory .footer {
+  position: absolute;
+  width: 1600px;
+  height: 443px;
+  top: 779px;
+  left: 0;
+  background-color: #111115;
+}
+
+.desktop-petstory .leave-feedback-wrapper {
+  all: unset;
+  box-sizing: border-box;
+  top: 161px;
+  left: 220px;
+  border-radius: 5px;
+  background: linear-gradient(
+    180deg,
+    rgb(249, 128, 75) 0%,
+    rgb(254, 144, 19) 100%
+  );
+  position: absolute;
+  width: 298px;
+  height: 54px;
+}
+
+.desktop-petstory .leave-feedback {
+  position: absolute;
+  width: 298px;
+  top: 15px;
+  left: 0;
+  font-family: var(--btn-font-family);
+  font-weight: var(--btn-font-weight);
+  color: #ffffff;
+  font-size: var(--btn-font-size);
+  text-align: center;
+  letter-spacing: var(--btn-letter-spacing);
+  line-height: var(--btn-line-height);
+  font-style: var(--btn-font-style);
+}
+
+.desktop-petstory .logo {
+  position: absolute;
+  width: 84px;
+  height: 52px;
+  top: 41px;
+  left: 220px;
+}
+
+.desktop-petstory .overlap-group-2 {
+  position: relative;
+  height: 54px;
+  top: -1px;
+  left: -1px;
+  border-radius: 2px;
+}
+
+.desktop-petstory .text-wrapper-18 {
+  position: absolute;
+  width: 72px;
+  top: 2px;
+  left: 6px;
+  -webkit-text-stroke: 1.19px #ffffff;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 19px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 22.8px;
+}
+
+.desktop-petstory .bamboo-2 {
+  position: absolute;
+  width: 11px;
+  height: 20px;
+  top: 23px;
+  left: 11px;
+}
+
+.desktop-petstory .rectangle-4 {
+  position: absolute;
+  width: 84px;
+  height: 54px;
+  top: 0;
+  left: 0;
+  border-radius: 2px;
+  border: 0.5px solid;
+  border-color: #ffffff;
+}
+
+.desktop-petstory .text-wrapper-19 {
+  position: absolute;
+  top: 370px;
+  left: 619px;
+  background: linear-gradient(
+    180deg,
+    rgb(249, 128, 75) 0%,
+    rgb(254, 144, 19) 100%
+  );
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-fill-color: transparent;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.desktop-petstory .text-wrapper-20 {
+  position: absolute;
+  top: 370px;
+  left: 720px;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.desktop-petstory .text-wrapper-21 {
+  position: absolute;
+  top: 370px;
+  left: 810px;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.desktop-petstory .text-wrapper-22 {
+  position: absolute;
+  top: 370px;
+  left: 904px;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.desktop-petstory .instagram {
+  position: absolute;
+  width: 110px;
+  height: 26px;
+  top: 331px;
+  left: 220px;
+}
+
+.desktop-petstory .fill-wrapper {
+  position: absolute;
+  width: 26px;
+  height: 26px;
+  top: 0;
+  left: 0;
+  background-color: #c4c4c480;
+  border-radius: 13px;
+}
+
+.desktop-petstory .fill {
+  position: absolute;
+  width: 16px;
+  height: 16px;
+  top: 5px;
+  left: 5px;
+}
+
+.desktop-petstory .text-wrapper-23 {
+  position: absolute;
+  top: 2px;
+  left: 38px;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.desktop-petstory .youtube {
+  position: absolute;
+  width: 101px;
+  height: 26px;
+  top: 367px;
+  left: 220px;
+}
+
+.desktop-petstory .fill-2 {
+  position: absolute;
+  width: 18px;
+  height: 13px;
+  top: 6px;
+  left: 4px;
+}
+
+.desktop-petstory .text-wrapper-24 {
+  position: absolute;
+  top: 3px;
+  left: 38px;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.desktop-petstory .facebook {
+  position: absolute;
+  width: 111px;
+  height: 26px;
+  top: 259px;
+  left: 220px;
+}
+
+.desktop-petstory .fill-3 {
+  position: absolute;
+  width: 8px;
+  height: 16px;
+  top: 5px;
+  left: 9px;
+}
+
+.desktop-petstory .text-wrapper-25 {
+  position: absolute;
+  width: 73px;
+  top: 4px;
+  left: 38px;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.desktop-petstory .twitter {
+  position: absolute;
+  width: 89px;
+  height: 26px;
+  top: 295px;
+  left: 220px;
+}
+
+.desktop-petstory .fill-4 {
+  position: absolute;
+  width: 16px;
+  height: 14px;
+  top: 6px;
+  left: 5px;
+}
+
+.desktop-petstory .text-wrapper-26 {
+  position: absolute;
+  top: 340px;
+  left: 1152px;
+  font-family: "Roboto-Thin", Helvetica;
+  font-weight: 100;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 20.8px;
+  white-space: nowrap;
+}
+
+.desktop-petstory .rsschool-yem-digital {
+  position: absolute;
+  top: 371px;
+  left: 1152px;
+  font-family: "Roboto-Thin", Helvetica;
+  font-weight: 100;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 20.8px;
+  white-space: nowrap;
+}
+
+.desktop-petstory .text-wrapper-27 {
+  position: absolute;
+  top: 39px;
+  left: 1013px;
+  font-family: var(--subtitle-font-family);
+  font-weight: var(--subtitle-font-weight);
+  color: #ffffff;
+  font-size: var(--subtitle-font-size);
+  letter-spacing: var(--subtitle-letter-spacing);
+  line-height: var(--subtitle-line-height);
+  white-space: nowrap;
+  font-style: var(--subtitle-font-style);
+}
+
+.desktop-petstory .send-btn-activ {
+  all: unset;
+  box-sizing: border-box;
+  position: absolute;
+  width: 129px;
+  height: 42px;
+  top: 83px;
+  left: 1251px;
+  background-color: var(--graylight);
+  border-radius: 5px;
+  border: 1px solid;
+  border-color: var(--green);
+}
+
+.desktop-petstory .text-wrapper-28 {
+  position: absolute;
+  top: 8px;
+  left: 38px;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--green);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.desktop-petstory .email-btn {
+  position: absolute;
+  width: 228px;
+  height: 42px;
+  top: 83px;
+  left: 1013px;
+}
+
+.desktop-petstory .overlap-6 {
+  position: relative;
+  height: 42px;
+  border-radius: 2px;
+}
+
+.desktop-petstory .text-wrapper-29 {
+  position: absolute;
+  width: 211px;
+  top: 9px;
+  left: 10px;
+  font-family: "Roboto-Regular", Helvetica;
+  font-weight: 400;
+  color: var(--gray-4);
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+}
+
+.desktop-petstory .rectangle-5 {
+  position: absolute;
+  width: 228px;
+  height: 42px;
+  top: 0;
+  left: 0;
+  border-radius: 2px;
+  border: 0.7px solid;
+  border-color: transparent;
+  border-image: linear-gradient(to bottom, rgb(249, 128, 75), rgb(254, 144, 19))
+    1;
+}
+
+.desktop-petstory .element-st-section {
+  position: absolute;
+  width: 1160px;
+  height: 575px;
+  top: 0;
+  left: 220px;
+}
+
+.desktop-petstory .button {
+  all: unset;
+  box-sizing: border-box;
+  top: 545px;
+  left: 0;
+  border-radius: 5px;
+  background: linear-gradient(
+    180deg,
+    rgb(249, 128, 75) 0%,
+    rgb(254, 144, 19) 100%
+  );
+  position: absolute;
+  width: 298px;
+  height: 54px;
+}
+
+.desktop-petstory .text-wrapper-30 {
+  position: absolute;
+  top: -1px;
+  left: 477px;
+  font-family: var(--h-3-font-family);
+  font-weight: var(--h-3-font-weight);
+  color: #333b41;
+  font-size: var(--h-3-font-size);
+  text-align: center;
+  letter-spacing: var(--h-3-letter-spacing);
+  line-height: var(--h-3-line-height);
+  white-space: nowrap;
+  font-style: var(--h-3-font-style);
+}
+
+.desktop-petstory .testimonials {
+  position: absolute;
+  width: 268px;
+  height: 391px;
+  top: 94px;
+  left: 0;
+}
+
+.desktop-petstory .testimonials-2 {
+  position: absolute;
+  width: 268px;
+  height: 391px;
+  top: 94px;
+  left: 298px;
+}
+
+.desktop-petstory .testimonials-3 {
+  position: absolute;
+  width: 267px;
+  height: 391px;
+  top: 94px;
+  left: 595px;
+}
+
+.desktop-petstory .testimonials-4 {
+  position: absolute;
+  width: 266px;
+  height: 391px;
+  top: 94px;
+  left: 894px;
+}
+
+.desktop-petstory .line-scrol {
+  position: absolute;
+  width: 599px;
+  height: 8px;
+  top: 506px;
+  left: 280px;
+  background-color: #f5f7f6;
+  border-radius: 5px;
+}
+
+.desktop-petstory .line {
+  position: relative;
+  width: 115px;
+  height: 6px;
+  top: 1px;
+  background-color: #fe9013;
+  border-radius: 5px;
+}
+
+.desktop-petstory .flower {
+  position: absolute;
+  width: 204px;
+  height: 613px;
+  top: 792px;
+  left: 1396px;
+  object-fit: cover;
+}
